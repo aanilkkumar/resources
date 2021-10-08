@@ -56,3 +56,7 @@ https://learning.oreilly.com/live-events/java-9-to-17-the-new-feature-benefits/0
 https://blog.frankel.ch/faster-maven-builds/1/
 
 https://stackoverflow.com/questions/53595420/correct-way-of-throwing-exceptions-with-reactor
+
+https://gobyexample.com/
+https://tour.golang.org/welcome/1
+https://www.youtube.com/watch?v=hodOppKJm5Y&t=4s
