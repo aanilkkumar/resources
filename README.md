@@ -60,3 +60,8 @@ https://stackoverflow.com/questions/53595420/correct-way-of-throwing-exceptions-
 https://gobyexample.com/
 https://tour.golang.org/welcome/1
 https://www.youtube.com/watch?v=hodOppKJm5Y&t=4s
+
+
+Kafka:
+https://strimzi.io/blog/2021/01/07/consumer-tuning/
+https://stackoverflow.com/questions/65540047/spring-kafka-limiting-number-of-messages-to-be-consumed-in-a-time-period
