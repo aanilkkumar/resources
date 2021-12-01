@@ -65,3 +65,10 @@ https://www.youtube.com/watch?v=hodOppKJm5Y&t=4s
 Kafka:
 https://strimzi.io/blog/2021/01/07/consumer-tuning/
 https://stackoverflow.com/questions/65540047/spring-kafka-limiting-number-of-messages-to-be-consumed-in-a-time-period
+
+
+Java:
+https://www.interviewbit.com/java-interview-questions-for-5-years-experience/
+https://www.simplilearn.com/tutorials/java-tutorial/java-interview-questions
+https://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html#axzz7DPSa46r5
+
